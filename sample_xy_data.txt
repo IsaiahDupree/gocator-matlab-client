@@ -1,0 +1,8 @@
+# Sample X-Y coordinate data for Gocator emulator
+# Format: DATA,frameCount,timestamp,X1,Y1,X2,Y2,...
+
+# Sample data for Sensor 1
+DATA,1,12345,10.250000,15.750000,11.350000,16.250000,12.500000,14.750000,9.250000,18.325000
+
+# Sample data for Sensor 2
+DATA,1,12346,22.125000,45.875000,23.750000,44.250000,24.500000,46.750000,21.325000,43.125000
