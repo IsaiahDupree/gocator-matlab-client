@@ -1,0 +1,11 @@
+Develop a MATLAB script that connects to 2 sensors via TCP/IP using ASCII to retrieve information from each sensor on demand.
+
+The sensors are: https://lmi3d.com/series/gocator-3210/
+
+Sensor Documentation: https://d3ejaiy6gq5z4s.cloudfront.net/manuals/gocator/gocator-6.4/G3/Default.htm#Welcome.htm?TocPath=_____1
+
+The sensors support an emulation tool: https://d3ejaiy6gq5z4s.cloudfront.net/manuals/gocator/gocator-6.4/G3/Default.htm#Emulator/Emulator.htm?TocPath=Gocator%2520Emulator%257C_____0. The emulation tool can be used to simulate the TCP/IP connection for testing purposes. I can provide sensor data and instructions to load in data exactly as it will occur in the environment.
+
+The data (2 per sensor) are X and Y coordinate pairs in decimal value.
+
+This should be done without using the Instrument Control Toolbox, only using the default TCP functionality in the base license: https://www.mathworks.com/help/matlab/tcpip-communication.html
